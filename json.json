@@ -1,0 +1,84 @@
+{
+    "gallery": [
+        {
+            "filename": "bilikova_chata.jpg",
+            "title": "bilikova_chata title",
+            "description": "Dlhší popis obrázku 1",
+            "date": "1.1.2022",
+            "coords": "49.160043,20.2221734",
+            "path": "photos/"
+        },
+        {
+            "filename": "bystra.jpg",
+            "title": "bystra title",
+            "description": "Dlhší popis obrázku 2",
+            "date": "2.2.2022",
+            "coords": "49.1935285,19.8982463",
+            "path": "photos/"
+        },
+        {
+            "filename": "gerlachovsky.jpg",
+            "title": "gerlachovsky title",
+            "description": "Dlhší popis obrázku 3",
+            "date": "3.3.2022",
+            "coords": "49.1643768,20.1248435",
+            "path": "photos/"
+        },
+        {
+            "filename": "kubinska.jpg",
+            "title": "kubinska title",
+            "description": "Dlhší popis obrázku 4",
+            "date": "4.4.2022",
+            "coords": "49.2741661,19.2595782",
+            "path": "photos/"
+        },
+        {
+            "filename": "liptovska_mara.jpg",
+            "title": "liptovska_mara title",
+            "description": "Dlhší popis obrázku 5",
+            "date": "5.5.2022",
+            "coords": "49.1051505,19.4972632",
+            "path": "photos/"
+        },
+        {
+            "filename": "liptovska.jpg",
+            "title": "liptovska title",
+            "description": "Dlhší popis obrázku 6",
+            "date": "6.6.2022",
+            "coords": "49.1051505,19.4972632",
+            "path": "photos/"
+        },
+        {
+            "filename": "pleso.jpg",
+            "title": "pleso title",
+            "description": "Dlhší popis obrázku 7",
+            "date": "7.6.2022",
+            "coords": "49.1670472,20.2166391",
+            "path": "photos/"
+        },
+        {
+            "filename": "rainerova_chata.jpg",
+            "title": "rainerova_chata title",
+            "description": "Dlhší popis obrázku 8",
+            "date": "8.7.2022",
+            "coords": "49.1670472,20.2166391",
+            "path": "photos/"
+        },
+        {
+            "filename": "skaly.jpeg",
+            "title": "skaly title",
+            "description": "Dlhší popis obrázku 9",
+            "date": "8.8.2022",
+            "coords": "48.9469777,19.5295735",
+            "path": "photos/"
+        },
+        {
+            "filename": "vodopady.jpg",
+            "title": "vodopady title",
+            "description": "Dlhší popis obrázku 10",
+            "date": "9.9.2022",
+            "coords": "49.1704593,20.2162854",
+            "path": "photos/"
+        }
+    ]
+}
